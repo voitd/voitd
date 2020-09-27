@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
+</div>  
 <!--
 **voitd/voitd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
