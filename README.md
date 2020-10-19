@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
 </div>  
 
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=voitd&?hide=issue&show_icons=true)
+![Dimytr's github stats](https://github-readme-stats.vercel.app/api?username=voitd&?hide=issue&show_icons=true)
 
 <!--
 **voitd/voitd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
