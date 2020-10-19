@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
 </div>  
+[![Dimytr's github stats](https://github-readme-stats.vercel.app/api?username=voitd)](https://github.com/voitd/github-readme-stats)
 <!--
 **voitd/voitd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Dimytr's github stats](https://github-readme-stats.vercel.app/api?username=voitd)](https://github.com/voitd/github-readme-stats)
+
