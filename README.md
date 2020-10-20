@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
 ![Dimytr's github stats](https://github-readme-stats.vercel.app/api?username=voitd&hide=issues&show_icons=true)
