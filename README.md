@@ -1,6 +1,7 @@
-<div align="center">
+<!--<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width=70% />
 </div>
+-->
 
 <div align="center">
  
