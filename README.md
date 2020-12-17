@@ -1,8 +1,13 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width=70% />
+</div>
+
+<div align="center">
+ 
+![Dimytr's github stats](https://github-readme-stats.vercel.app/api?username=voitd&hide=issues&show_icons=true)
 </div>  
 
-![Dimytr's github stats](https://github-readme-stats.vercel.app/api?username=voitd&hide=issues&show_icons=true)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voitd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
