@@ -5,7 +5,7 @@
 
 <div align="center">
  
-![Dimytr's github stats](https://github-readme-stats.vercel.app/api?username=voitd&hide=issues&show_icons=true)
+![Dimytr's github stats](https://github-readme-stats.vercel.app/api?username=voitd&hide=issues&show_icons=true&theme=react)
 </div>  
 
 
