@@ -2,10 +2,15 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width=70% />
 </div>
 -->
+Hey 👋, I'm Dimytr Voitenko.
 
+I ❤ Open Source. I love [NeoVim](https://neovim.io), dotfiles and spend most of my life typing away in a terminal 🙈.
+-  Web-developer at [CodeBattle](https://codebattle.hexlet.io)
+-  Currently learning [Lua](http://www.lua.org)
 <div align="center">
  
 ![Dimytr's github stats](https://github-readme-stats.vercel.app/api?username=voitd&hide=issues&show_icons=true&theme=react)
+
 </div>  
 
 
@@ -24,5 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Currently learning [Elixir](https://elixir-lang.org)
+[![Github](https://img.shields.io/github/followers/voitd?label=Follow&style=social)](https://github.com/voitd)
 -->
 
