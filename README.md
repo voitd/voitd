@@ -6,6 +6,9 @@ Hey 👋, I'm Dimytr Voitenko.
 
 I ❤ Open Source. I love [NeoVim](https://neovim.io), dotfiles and spend most of my life typing away in a terminal 🙈.
 
+- Web-developer at [CodeBattle](https://codebattle.hexlet.io)
+- Currently learning [Elixir](https://elixir-lang.org)
+
 <div align="center">
  
 ![Dimytr's github stats](https://github-readme-stats.vercel.app/api?username=voitd&hide=issues&show_icons=true&theme=react)
