@@ -6,8 +6,8 @@ Hey 👋, I'm Dimytr Voitenko.
 
 I ❤ Open Source. I love [NeoVim](https://neovim.io), dotfiles and spend most of my life typing away in a terminal 🙈.
 
-- Web-developer at [CodeBattle](https://codebattle.hexlet.io)
-- Currently learning [Elixir](https://elixir-lang.org)
+- Web-developer at [Panda Team](https://pandateam.net)
+- Currently learning [Vue](https://vuejs.org)
 
 <div align="center">
  
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 Currently learning [Elixir](https://elixir-lang.org)
 -  Web-developer at [CodeBattle](https://codebattle.hexlet.io)
 -  Currently learning [Lua](http://www.lua.org)
+- Currently learning [Elixir](https://elixir-lang.org)
 [![Github](https://img.shields.io/github/followers/voitd?label=Follow&style=social)](https://github.com/voitd)
 -->
 
