@@ -6,8 +6,8 @@ Hey 👋, I'm Dimytr Voitenko.
 
 I ❤ Open Source. I love [NeoVim](https://neovim.io), dotfiles and spend most of my life typing away in a terminal 🙈.
 
-- Web-developer at [Panda Team](https://pandateam.net)
-- Currently learning [Vue](https://vuejs.org)
+- Web-developer at [Acatem Web Soutions](https://academweb.com)
+- Currently learning [Next.js/Nest.js](https://nestjs.com)
 
 
  
