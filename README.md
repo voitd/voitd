@@ -5,9 +5,12 @@
 Hey 👋, I'm Dimytr Voitenko.
 
 I ❤ Open Source. I love [NeoVim](https://neovim.io), dotfiles and spend most of my life typing away in a terminal 🙈.
+[<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1l8Lf2vD--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width="60" align="right" />](https://dev.to/badge/hacktoberfest-2021)
+[<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" width="60" align="right" />](https://dev.to/badge/hacktoberfest-2020)
 
 - Web-developer at [Academ Web Soutions](https://academweb.com)
 - Currently learning [Next.js/Nest.js](https://nestjs.com)
+
 
 
  
