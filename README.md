@@ -12,7 +12,7 @@ I ❤ Open Source. I love [NeoVim](https://neovim.io), dotfiles and spend most o
 
 
 - Web-developer at [Academ Web Solutions](https://academweb.com)
-- Currently learning [Next.js/Nest.js](https://nestjs.com)
+- Currently learning [Next.js/Nuxt.js](https://nuxtjs.com)
 
 
 
